@@ -44,8 +44,7 @@
 
          <div>
                 <button class="bnt btn-primary" name="login">Login</button>
-              
-             
+               
             </div>
             </form>
     </div>
